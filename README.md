@@ -1,7 +1,7 @@
 # vue-todo
 vue webpack environment
 
-first:
+# first:
   yarn
-second:
+# second:
   npm run dev (or npm run build)
